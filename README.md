@@ -72,9 +72,8 @@ I enjoy learning new technologies, improving my coding skills, and working on re
 ---
 
 ## 🤝 Connect With Me 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your professional email]
-- 🐙 GitHub: [Your GitHub Profile]
+- 💼 LinkedIn: [www.linkedin.com/in/gowtham-s-pythondeveloper]
+- 📧 Email: [gowtham.s.engineer@gmail.com]
   
 ---
 
