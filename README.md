@@ -44,10 +44,6 @@ I enjoy learning new technologies, improving my coding skills, and working on re
 
 ## 📌 Featured Projects 
 
-### 🏛️ Citizen Issue Reporter A Django-based public complaint management system that allows citizens to report issues such as damaged roads, broken street lights, garbage problems, and other public issues. **Technologies:** Python, Django, HTML, CSS, JavaScript, SQLite 
-
----
-
 ### 🌦️ Rainfall Prediction System A machine learning project that predicts rainfall using weather-related data and the Random Forest algorithm. **Technologies:** Python, Machine Learning, Random Forest, Pandas, NumPy, Scikit-learn 
 
 ---
